@@ -16,7 +16,7 @@ Hi! I’m Harish Girish Overikar, a passionate learner and aspiring developer wh
 ---
 
 ## 🌐 Connect with Me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Harish-Overikar)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-overikar-402459326)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harish__overikar)
 
 
