@@ -3,9 +3,7 @@
 ## 🚀 About Me
 Hi! I’m Harish Girish Overikar, a passionate learner and aspiring developer who loves exploring the intersection of software, hardware, and creativity.
 
-🌱 Currently Learning: Python and exploring Machine Learning.
-
-🔭 Interests: Electronics, IoT Projects, and Machine Learning applications.
+🤖 AI • Embedded Systems • Electronics
 
 🎯 Goal: Build impactful projects, sharpen my problem-solving skills, and grow into a well-rounded tech professional.
 .
